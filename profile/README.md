@@ -58,7 +58,7 @@ Single-purpose instruments that remove noise with one keystroke. Zero signup, wo
 
 | | |
 |---|---|
-| **[corpus](https://github.com/spektre-labs/corpus)** | 79 DOI-stamped open-access papers on coherence, distortion and identity across physics, consciousness, cosmology, AI cognition and information theory. One invariant: σ. An integrity CI keeps the declaration honest. |
+| **[corpus](https://github.com/spektre-labs/corpus)** | 77 DOI-stamped open-access papers on coherence, distortion and identity across physics, consciousness, cosmology, AI cognition and information theory. One invariant: σ. An integrity CI keeps the declaration honest. |
 | **[creation-os](https://github.com/spektre-labs/creation-os)** | Cognitive architecture — the model-free σ-gate, the theory instantiated as a running system. |
 | **[spektre-protocol](https://github.com/spektre-labs/spektre-protocol)** | Formal framework for reasoning about dynamic state spaces and higher-order representations. The theory, formalized. |
 
