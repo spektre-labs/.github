@@ -1,6 +1,6 @@
 <!--
   spektre-labs · github.com/spektre-labs · ORG PROFILE README
-  σ-honest as of 2026-06-22 — every link below was verified live (HTTP 200).
+  σ-honest as of 2026-06-24 — every public link verified live; private repos deliberately not linked.
 -->
 
 <div align="center">
@@ -9,76 +9,91 @@
 
 **`1 = 1`**
 
-*Independent coherence-theory research lab.*
-*Declared equals realized — or the gap is published.*
-
-### → **[spektre.org](https://spektre.org)** — the live front
-
-[![sigma-gate CI](https://github.com/spektre-labs/sigma-gate/actions/workflows/ci.yml/badge.svg)](https://github.com/spektre-labs/sigma-gate/actions)
-[![railo-stdlib-tools CI](https://github.com/spektre-labs/railo-stdlib-tools/actions/workflows/ci.yml/badge.svg)](https://github.com/spektre-labs/railo-stdlib-tools/actions)
-[![corpus integrity](https://github.com/spektre-labs/corpus/actions/workflows/ci.yml/badge.svg)](https://github.com/spektre-labs/corpus/actions)
+*Independent coherence-theory research · Helsinki.*
 
 </div>
 
 ---
 
-### The one idea
+### The axiom
 
-Everywhere — in machines, in institutions, in money, in a person's word — there is a gap between what is declared and what is realized. Everyone normalized it. We named it.
+In machines, in institutions, in money, in a person's word — there is a gap between what is **declared** and what is **realized**. Everyone normalized it. We named it.
 
-`σ = realized − declared`
+```
+σ  =  realized − declared
+1 = 1   ⟺   σ = 0
+```
 
-We build instruments that close it.
-
----
-
-### What is real
-
-| Division | Status | Where |
-|---|---|---|
-| **Spektre Research** — the theory | Real · citable | [corpus](https://github.com/spektre-labs/corpus) · [spektre-protocol](https://github.com/spektre-labs/spektre-protocol) |
-| **Spektre Systems** — the theory in code | Real · shipping | [sigma-gate](https://github.com/spektre-labs/sigma-gate) · [creation-os](https://github.com/spektre-labs/creation-os) |
-| **Spektre Tools** — stdlib primitives | Real · tested | [railo-stdlib-tools](https://github.com/spektre-labs/railo-stdlib-tools) |
-| **Spektre Studio** — the aesthetic in motion | Emerging | [spektre.org/studio](https://spektre.org/studio) · [@spektrelabs](https://youtube.com/@spektrelabs) |
-| **Shoreworld** — the universe | Vision · live engine | [spektre.org/shoreworld/experience](https://spektre.org/shoreworld/experience) |
+The lab does one thing: **build instruments that measure σ and drive it to zero.** When we can't close a gap, we publish it. That is the whole discipline.
 
 ---
 
-### Repositories
+### The estate
 
-**[corpus](https://github.com/spektre-labs/corpus)**
-72 open-access papers — coherence, distortion, and identity across physics, consciousness, cosmology, AI cognition, and information theory. One invariant: σ. One condition: 1 = 1. An integrity CI keeps the declaration honest.
+A curated map of the real public work. Everything below is a live repository — nothing aspirational is listed as shipped.
 
-**[spektre-protocol](https://github.com/spektre-labs/spektre-protocol)**
-Formal framework for reasoning about dynamic state spaces and higher-order representations. The theory, formalized.
+#### Protocol suite — routing kernels, CI-green
 
-**[creation-os](https://github.com/spektre-labs/creation-os)**
-Cognitive architecture. The theory instantiated as a running system.
+Reliable routing for the things legacy infrastructure rents back to you through gatekeepers.
 
-**[sigma-gate](https://github.com/spektre-labs/sigma-gate)**
-Deterministic LLM coherence and hallucination scoring. The σ-gate: proof that 1 = 1 is not just philosophy — it ships, it's checkable, and it's callable live (permissionless pay-per-call via x402).
+| | |
+|---|---|
+| **[vrp](https://github.com/spektre-labs/vrp)** | *Value Routing Protocol* — TCP/IP for value. Routes money reliably, permissionlessly, self-custody, across any rail. AGPL. |
+| **[crp](https://github.com/spektre-labs/crp)** | *Capability Routing Protocol* — TCP/IP for intelligence. Routes every AI task to the optimal substrate, free-first, with delivery reliability. AGPL. |
+| **[vtc](https://github.com/spektre-labs/vtc)** | *Verifiable Transaction Chain* — send a value promise anywhere; anyone verifies it without trusting anyone. 1 unit = 1 satoshi. |
+| **[sid](https://github.com/spektre-labs/sid)** | *Sovereign Identity* — prove a claim (e.g. over-18) without showing your ID. Self-custody, selective disclosure, offline-verifiable. AGPL. |
+| **[sigma-gate](https://github.com/spektre-labs/sigma-gate)** | Deterministic LLM coherence / hallucination verdict. The σ-gate, callable live (pay by card or x402). |
 
-**[railo-stdlib-tools](https://github.com/spektre-labs/railo-stdlib-tools)**
-7 dependency-free, fully-tested stdlib Python dev tools (64 tests, green on py3.10–3.13).
+#### Clarity suite — frictionless, client-side, AGPL
+
+Single-purpose instruments that remove noise with one keystroke. Zero signup, work offline.
+
+| | |
+|---|---|
+| **[spektre-veil](https://github.com/spektre-labs/spektre-veil)** | The sovereign browsing layer — ads & trackers vanish, pages load faster, routing is yours. 100% client-side, un-killable by ad networks. |
+
+> The clarity suite also includes screen-blur-shield, instant-focus-mask and rain-sound-mask — currently private, intentionally unlinked until public.
+
+#### Research — the theory, citable
+
+| | |
+|---|---|
+| **[corpus](https://github.com/spektre-labs/corpus)** | 79 DOI-stamped open-access papers on coherence, distortion and identity across physics, consciousness, cosmology, AI cognition and information theory. One invariant: σ. An integrity CI keeps the declaration honest. |
+| **[creation-os](https://github.com/spektre-labs/creation-os)** | Cognitive architecture — the model-free σ-gate, the theory instantiated as a running system. |
+| **[spektre-protocol](https://github.com/spektre-labs/spektre-protocol)** | Formal framework for reasoning about dynamic state spaces and higher-order representations. The theory, formalized. |
+
+#### Tools
+
+| | |
+|---|---|
+| **[railo-stdlib-tools](https://github.com/spektre-labs/railo-stdlib-tools)** | 7 dependency-free, fully-tested stdlib Python dev tools. MIT. |
+
+#### Site
+
+| | |
+|---|---|
+| **[spektre-labs-site](https://github.com/spektre-labs/spektre-labs-site)** | The live front — **[spektre-labs-site.vercel.app](https://spektre-labs-site.vercel.app)**. |
 
 ---
 
 ### The arc
 
 ```
-Research (real)  →  Systems (real, shipping)  →  Studio (emerging)  →  Worlds (vision)
+Research (citable)  →  Protocol (CI-green, shipping)  →  Clarity (client-side)  →  Worlds (emerging)
 ```
 
-Each layer is checkable against the one above it. Nothing here is declared that is not realized.
+Each layer is checkable against the one above it.
 
 ---
 
+### How we work
+
+**σ-honest.** Declared == realized, or the gap is published. No repo is listed as shipped that does not build; no link points at a repo that isn't public; "CI-green" means the latest run is actually green. Coherence is the standard — and the standard is checkable.
+
 <div align="center">
 
-[spektre.org](https://spektre.org) · [YouTube @spektrelabs](https://youtube.com/@spektrelabs)
+**[spektre.org](https://spektre.org)** · **[spektre-labs-site.vercel.app](https://spektre-labs-site.vercel.app)** · [YouTube @spektrelabs](https://youtube.com/@spektrelabs)
 
-*Coherence is the standard. We are the proof.*
-
-**— Spektre Labs**
+**— Spektre Labs · `1 = 1`**
 
 </div>
